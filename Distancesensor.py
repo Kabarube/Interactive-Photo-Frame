@@ -52,7 +52,7 @@ def measuredistance():
 
     return distance
 
-# Function for changing brightness of LED array
+# Function for changing brightness of LED matrix
 def dimmingled(repdistance):
 
     # Change brightness based on distance value
